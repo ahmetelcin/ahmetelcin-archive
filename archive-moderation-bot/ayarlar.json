@@ -1,0 +1,17 @@
+{
+  "prefix": "",
+  "sahip": "",
+  "token": "",
+  "randomize_delay": 30,    
+  "bot_adı": "",
+  "renk": "#e07afc",
+  "ayarlar_title":"────────────── Cem Yılmaz YARDIM ──────────────",  
+  "moderasyon_title":"──────────── Cem Yılmaz MODERASYON ────────────",         
+  "kullanıcı_title":"───────────── Cem Yılmaz KULLANICI ──────────────",   
+  "eğlence_title":"────────────── Cem Yılmaz EĞLENCE ──────────────",  
+  "ekonomi_title":"────────────── Cem Yılmaz EKONOMİ ─────────────",  
+  "sosyalmedya_title":"─────────── Cem Yılmaz SOSYAL MEDYA ────────────",  
+  "seviye_title":"────────────── Cem Yılmaz SEVİYE ───────────────",  
+  "ayarlar_footer": "────────────────────── Maked by NoBan ──────────────────────",
+  "button_ileri_geri": "-------------------"
+}
