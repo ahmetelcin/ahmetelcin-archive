@@ -7,15 +7,11 @@ These repositories represent my learning journey from basic command handling to 
 
 ## 📚 What's Inside?
 
-This archive includes two types of projects:
+This archive includes:
 
-1. **Legacy Bots (Cleaned)**  
+   **Legacy Bots (Cleaned)**  
    Older bots originally made during high school.  
    These have been reviewed and sanitized — removing NSFW, real-person references, or overly humorous commands.
-
-2. **Advanced Prototypes**  
-   Projects that laid the groundwork for more structured systems, like my current RPG card bot.  
-   These include permission systems, economic logic, multilingual support, and modular architecture.
 
 ---
 
@@ -25,7 +21,6 @@ This archive includes two types of projects:
 📁 ahmetelcin-archive/
 ├── yesban-clean/               # A cleaned-up moderation and fun bot (2022)
 ├── archive-moderation-bot/     # A basic modular bot with afk/log/ban etc.
-├── boot-rpg-prototype/         # Prototype backend for a card game Discord bot
 └── README.md                   # This file
 ```
 
@@ -43,7 +38,7 @@ It's here to share, reflect, and show how learning happens — one bot at a time
 
 - **Ahmet Elçin**  
 - 💻 [github.com/ahmetelcin](https://github.com/ahmetelcin)  
-- 🕐 Projects span from 2020–2025  
+- 🕐 Projects span from 2020–2023  
 - 🧭 Now building full-stack systems & games
 
 ---
